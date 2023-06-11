@@ -1,11 +1,8 @@
 asgiref==3.6.0
-decouple==0.0.7
 distlib==0.3.6
 dj-config-url==0.1.1
 dj-database-url==2.0.0
 Django==4.2.1
-django-decouple==2.1
-django-heroku==0.3.1
 django-js-asset==2.0.0
 filelock==3.12.0
 platformdirs==3.5.0
